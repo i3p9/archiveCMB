@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   called CMB Batash - For People Who Are Not Poor
   I own none of the content hosted here.
   This is just a mean to save the posts that the page had.
-baseurl: "/cmbarchive" # the subpath of your site, e.g. /blog
+baseurl: "/archiveCMB" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FahimTheTwit
 github_username:  i3p9

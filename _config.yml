@@ -17,9 +17,8 @@ title: For People Who Are Not Poor
 email: i3p9@github.com
 description: > # this means to ignore newlines until "baseurl:"
   This is an archive of the short-lived Facebook page
-  called CMB Batash - For People Who Are Not Poor
+  called CMB Batash - For People Who Are Not Poor.
   I own none of the content hosted here.
-  This is just a mean to save the posts that the page had.
 baseurl: "/archiveCMB" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FahimTheTwit
